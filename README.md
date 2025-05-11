@@ -31,9 +31,9 @@ mvn clean test jacoco:report
 Clique com o botão direito sobre o diretório src/test/java ou sobre a classe de teste desejada.
 Selecione Run '...Test' with Coverage.
 O IntelliJ executará os testes e mostrará a cobertura diretamente no editor de código:
-Verde: linha coberta.
-Vermelha: linha não executada.
-Amarela: cobertura parcial (em estruturas condicionais).
+- Verde: linha coberta.
+- Vermelha: linha não executada.
+- Amarela: cobertura parcial (em estruturas condicionais).
 
 
 
